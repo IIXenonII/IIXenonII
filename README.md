@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IIXenonII
 - 👀 I’m interested in Coding (Im going to school for that),Gaming and Hanging out with Friends
-- 🌱 I’m currently learning C but afther thant i want to learn Python
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on Anything really i am new at conding 
 - 📫 How to reach me https://twitter.com/I0Xenon0I 
 
