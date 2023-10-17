@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @IIXenonII
 - 👀 I’m interested in Coding (Im going to school for that),Gaming and Hanging out with Friends
 - 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on Anything really i am new at conding 
+- 💞️ I’m looking to collaborate on Anything really i am new at coding 
 - 📫 How to reach me https://twitter.com/I0Xenon0I 
 
 
